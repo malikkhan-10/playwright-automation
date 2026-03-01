@@ -20,5 +20,8 @@
   "homepage": "https://github.com/malikkhan-10/playwright-automation#readme",
   "dependencies": {
     "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
   }
 }
