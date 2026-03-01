@@ -1,0 +1,24 @@
+{
+  "name": "playwrightautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikkhan-10/playwright-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/malikkhan-10/playwright-automation/issues"
+  },
+  "homepage": "https://github.com/malikkhan-10/playwright-automation#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
