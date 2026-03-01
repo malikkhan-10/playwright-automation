@@ -1,1 +1,4 @@
-It covers the common "clutter" created by Eclipse and Maven:
+node_modules/
+npm/
+test-results/
+*.log
